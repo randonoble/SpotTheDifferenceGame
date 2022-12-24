@@ -31,9 +31,9 @@ body {
     .blocked{
         position: absolute;
         cursor: not-allowed;
-        height: 50%;
-        width: 50%;
-        margin-left: 45%;
+        height: 70%;
+        width: 60%;
+        margin-left: 47%;
         margin-bottom: 50%;
         z-index:3;
         background-color: transparent;
